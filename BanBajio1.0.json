@@ -290,7 +290,7 @@
     {
       "item" : "image_toolbar_name",
       "value" : "image_toolbar",
-      "url" : "https://sps-files-pub.s3.amazonaws.com/icons/Logo_BanBajio_Horizontal.png",
+      "url" : "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/Logo_BanBajio_Horizontal.png",
       "enable" : true
     },
     {
