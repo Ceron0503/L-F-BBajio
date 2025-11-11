@@ -311,41 +311,42 @@
     {
       "item": "animation_i9000s",
       "value": "",
-      "url_report": "",
-      "url_insert": "",
-      "url_remove": "",
+      "url_report": "https://configlookandfeel.s3.us-east-1.amazonaws.com/Mifel/report_1.json",
+      "url_insert": "https://configlookandfeel.s3.us-east-1.amazonaws.com/Mifel/insert_1.json",
+      "url_remove": "https://configlookandfeel.s3.us-east-1.amazonaws.com/Mifel/remove_1.json",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/loader_banbajio%201.json",
       "enable": true
     },
     {
       "item": "animation_i9100",
       "value": "",
-      "url_report": "",
-      "url_insert": "",
-      "url_remove": "",
+      "url_report": "https://configlookandfeel.s3.us-east-1.amazonaws.com/Mifel/report_1.json",
+      "url_insert": "https://configlookandfeel.s3.us-east-1.amazonaws.com/Mifel/insert_1.json",
+      "url_remove": "https://configlookandfeel.s3.us-east-1.amazonaws.com/Mifel/remove_1.json",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/loader_banbajio%201.json",
       "enable": true
     },
     {
       "item": "animation_s1f4",
       "value": "",
-      "url_report": "",
-      "url_insert": "",
-      "url_remove": "",
+      "url_report": "https://configlookandfeel.s3.us-east-1.amazonaws.com/Mifel/report_1.json",
+      "url_insert": "https://configlookandfeel.s3.us-east-1.amazonaws.com/Mifel/insert_1.json",
+      "url_remove": "https://configlookandfeel.s3.us-east-1.amazonaws.com/Mifel/remove_1.json",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/loader_banbajio%201.json",
       "enable": true
     },
     {
       "item": "animation_s1f4_pro",
       "value": "",
-      "url_report": "",
-      "url_insert": "",
-      "url_remove": "",
+      "url_report": "https://configlookandfeel.s3.us-east-1.amazonaws.com/Mifel/report_1.json",
+      "url_insert": "https://configlookandfeel.s3.us-east-1.amazonaws.com/Mifel/insert_1.json",
+      "url_remove": "https://configlookandfeel.s3.us-east-1.amazonaws.com/Mifel/remove_1.json",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/loader_banbajio%201.json",
       "enable": true
     }
   ]
 }
+
 
 
 
