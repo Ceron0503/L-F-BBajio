@@ -314,7 +314,7 @@
       "url_report": "",
       "url_insert": "",
       "url_remove": "",
-      "url_loader": "",
+      "url_loader": "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/loader_banbajio%201.json",
       "enable": true
     },
     {
@@ -323,14 +323,14 @@
       "url_report": "",
       "url_insert": "",
       "url_remove": "",
-      "url_loader": "",
+      "url_loader": "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/loader_banbajio%201.json",
       "enable": true
     },
     {
       "item": "animation_s1f4",
       "value": "",
       "url_report": "",
-      "url_insert": "h",
+      "url_insert": "",
       "url_remove": "",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/loader_banbajio%201.json",
       "enable": true
@@ -346,6 +346,7 @@
     }
   ]
 }
+
 
 
 
