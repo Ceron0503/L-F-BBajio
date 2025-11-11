@@ -303,7 +303,7 @@
       "item" : "image_watermark",
       "value" : "image_watermark",
       "url" : "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/BBajio%20vertical.png",
-      "enable" : true
+      "enable" : false
     }
   ],
   "custom_animations_enable" : true,
@@ -346,6 +346,7 @@
     }
   ]
 }
+
 
 
 
