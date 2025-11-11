@@ -306,7 +306,7 @@
       "enable" : false
     }
   ],
-  "custom_animations_enable" : false,
+  "custom_animations_enable" : true,
   "custom_animations" : [
     {
       "item": "animation_i9000s",
@@ -346,6 +346,7 @@
     }
   ]
 }
+
 
 
 
