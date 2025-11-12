@@ -176,7 +176,7 @@
     },
     {
       "item" : "global_tertiary_text_color",
-      "value" : "#33383E",
+      "value" : "#573b95",
       "enable" : true
     },
     {
@@ -346,6 +346,7 @@
     }
   ]
 }
+
 
 
 
