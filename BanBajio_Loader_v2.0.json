@@ -82,7 +82,7 @@
     },
     {
       "item" : "toolbar_ic_back_color",
-      "value" : "#573b95",
+      "value" : "#ff0000",
       "enable" : true
     },
     {
@@ -346,6 +346,7 @@
     }
   ]
 }
+
 
 
 
